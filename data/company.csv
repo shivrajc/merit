@@ -1,0 +1,13 @@
+company_id,company_name,email,website,contact_number,address,about,created_on
+CMP001,Innovatech Solutions,contact@innovatechsolutions.com,www.innovatechsolutions.com,+15005550011,"100 Tech Park, Innovation City","Leading provider of tech solutions, specializing in IoT and AI for smart cities.",2020-01-01
+CMP002,EcoSolutions Ltd,contact@ecosolutionsltd.com,www.ecosolutionsltd.com,+15005550012,"200 Tech Park, Innovation City",Dedicated to sustainable environmental innovations and green technology.,2020-02-01
+CMP003,Creative Designs Studio,contact@creativedesignsstudio.com,www.creativedesignsstudio.com,+15005550013,"300 Tech Park, Innovation City","Cutting-edge design studio focusing on web, graphic, and product design.",2020-03-01
+CMP004,Global Finance Group,contact@globalfinancegroup.com,www.globalfinancegroup.com,+15005550014,"400 Tech Park, Innovation City",Providing innovative financial solutions and advisory services worldwide.,2020-04-01
+CMP005,Health & Wellness Corp,contact@health&wellnesscorp.com,www.health&wellnesscorp.com,+15005550015,"500 Tech Park, Innovation City",Enhancing quality of life through holistic health and wellness programs.,2020-05-01
+CMP006,NextGen Robotics,contact@nextgenrobotics.com,www.nextgenrobotics.com,+15005550016,"600 Tech Park, Innovation City",Pioneering the next generation of robotics and automation solutions.,2020-06-01
+CMP007,Green Energy Solutions,contact@greenenergysolutions.com,www.greenenergysolutions.com,+15005550017,"700 Tech Park, Innovation City",Focusing on renewable energy sources to power a sustainable future.,2020-07-01
+CMP008,Data Analytics Inc,contact@dataanalyticsinc.com,www.dataanalyticsinc.com,+15005550018,"800 Tech Park, Innovation City",Transforming data into actionable insights for businesses worldwide.,2020-08-01
+CMP009,Global Logistics LLC,contact@globallogisticsllc.com,www.globallogisticsllc.com,+15005550019,"900 Tech Park, Innovation City",Streamlining supply chains with innovative logistics and transport solutions.,2020-09-01
+CMP0010,Cyber Security Experts,contact@cybersecurityexperts.com,www.cybersecurityexperts.com,+15005550020,"1000 Tech Park, Innovation City",Leading the charge in advanced cyber security measures and technologies.,2020-010-01
+CMP0011,Virtual Reality Ventures,contact@virtualrealityventures.com,www.virtualrealityventures.com,+15005550021,"1100 Tech Park, Innovation City",Immersing users in the ultimate virtual reality experiences.,2020-011-01
+CMP0012,Space Exploration Tech,contact@spaceexplorationtech.com,www.spaceexplorationtech.com,+15005550022,"1200 Tech Park, Innovation City",Pushing the boundaries of space exploration with cutting-edge technologies.,2020-012-01

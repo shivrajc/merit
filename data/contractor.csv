@@ -1,0 +1,13 @@
+contractor_id,name,email,website,status,address,contact_number,experience,expected_pay,expected_pay_currency,resume,avatar,create_on,last_updated_on
+C001,Alex Johnson,alex1@example.com,www.alex1works.com,Available,"123 Pine St, Seattle, WA",11234567890,5,50000,USD,Alex_Johnson_Resume.pdf,Alex_Johnson_Avatar.jpg,1/1/2023,1/5/2023
+C002,Beatrice Gomez,beatrice2@example.com,www.beatrice2works.com,Engaged,"456 Maple Ave, Austin, TX",12345678901,8,70000,USD,Beatrice_Gomez_Resume.pdf,Beatrice_Gomez_Avatar.jpg,1/2/2023,1/6/2023
+C003,Charlie Smith,charlie3@example.com,www.charlie3works.com,Unavailable,"789 Oak Lane, New York, NY",13214567890,10,90000,USD,Charlie_Smith_Resume.pdf,Charlie_Smith_Avatar.jpg,1/3/2023,1/7/2023
+C004,Alex Johnson,alex4@example.com,www.alex4works.com,Available,"123 Pine St, Seattle, WA",11234567890,5,50000,USD,Alex_Johnson_Resume.pdf,Alex_Johnson_Avatar.jpg,1/4/2023,1/8/2023
+C005,Beatrice Gomez,beatrice5@example.com,www.beatrice5works.com,Engaged,"456 Maple Ave, Austin, TX",12345678901,8,70000,USD,Beatrice_Gomez_Resume.pdf,Beatrice_Gomez_Avatar.jpg,1/5/2023,1/9/2023
+C006,Charlie Smith,charlie6@example.com,www.charlie6works.com,Unavailable,"789 Oak Lane, New York, NY",13214567890,10,90000,USD,Charlie_Smith_Resume.pdf,Charlie_Smith_Avatar.jpg,1/6/2023,1/10/2023
+C007,Alex Johnson,alex7@example.com,www.alex7works.com,Available,"123 Pine St, Seattle, WA",11234567890,5,50000,USD,Alex_Johnson_Resume.pdf,Alex_Johnson_Avatar.jpg,1/7/2023,1/11/2023
+C008,Beatrice Gomez,beatrice8@example.com,www.beatrice8works.com,Engaged,"456 Maple Ave, Austin, TX",12345678901,8,70000,USD,Beatrice_Gomez_Resume.pdf,Beatrice_Gomez_Avatar.jpg,1/8/2023,1/12/2023
+C009,Charlie Smith,charlie9@example.com,www.charlie9works.com,Unavailable,"789 Oak Lane, New York, NY",13214567890,10,90000,USD,Charlie_Smith_Resume.pdf,Charlie_Smith_Avatar.jpg,1/9/2023,1/13/2023
+C0010,Alex Johnson,alex10@example.com,www.alex10works.com,Available,"123 Pine St, Seattle, WA",11234567890,5,50000,USD,Alex_Johnson_Resume.pdf,Alex_Johnson_Avatar.jpg,1/10/2023,1/14/2023
+C0011,Beatrice Gomez,beatrice11@example.com,www.beatrice11works.com,Engaged,"456 Maple Ave, Austin, TX",12345678901,8,70000,USD,Beatrice_Gomez_Resume.pdf,Beatrice_Gomez_Avatar.jpg,1/11/2023,1/15/2023
+C0012,Charlie Smith,charlie12@example.com,www.charlie12works.com,Unavailable,"789 Oak Lane, New York, NY",13214567890,10,90000,USD,Charlie_Smith_Resume.pdf,Charlie_Smith_Avatar.jpg,1/12/2023,1/16/2023
